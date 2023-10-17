@@ -1,10 +1,14 @@
 .macro len_arr (%end_of_arr)
-	la a0 out_cnt_elems
+input:	la a0 out_cnt_elems
 	li a7 4
 	ecall
 	li a7 5			#Input lenght of array from keyboard
 	ecall
 	mv a2 a0
+	li a3 10 
+	bgt a2 a3 input
+	li a3 1
+	blt a2 a3 input
 	li a1 4
 	mul a2 a2 a1
 	add %end_of_arr %end_of_arr a2	 	#Making the pointer to the end of array
