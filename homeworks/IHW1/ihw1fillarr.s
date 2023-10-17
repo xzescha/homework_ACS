@@ -1,45 +1,44 @@
-.macro enter_array(%x, %y) # макрос для ввода значений массива с клавиатуры (базируется на моем же решении 3-ей задачи)
-	li s1 1
-	li s6 10
-	li s3 4
-	
-	j ask_for_resume
-ask_for_resume_again: la a0 try_again
+.macro len_arr (%end_of_arr)
+	la a0 out_cnt_elems
 	li a7 4
 	ecall
-	j input_num
-ask_for_resume:	la a0 out_resume_inp
+	li a7 5			#Input lenght of array from keyboard
+	ecall
+	mv a2 a0
+	li a1 4
+	mul a2 a2 a1
+	add %end_of_arr %end_of_arr a2	 	#Making the pointer to the end of array
+	lw ra (sp)
+	addi sp sp 4
+.end_macro
+
+.macro fill_arr_a (%arr_1, %end_of_arr)
+loop:	la a0 out_num_el
 	li a7 4
 	ecall
-input_num:	
-	li a7 5
+	li a7 5 		# Filling the array from keyboard (with loop)
 	ecall
-	mv t6 a0
-	mv s5 t6
-	bgt t6 s6, ask_for_resume_again
-	blt t6 s1, ask_for_resume_again
-	mul t6 t6 s3
-	add %y %y t6
-	
-add_element: addi t3, t3, 1
-	la a0, ask_for_input_pt_1
-	li a7,4 
+	sw a0 (%arr_1)	
+	addi %arr_1 %arr_1 4
+	blt %arr_1 %end_of_arr loop	
+	lw ra (sp)
+	addi sp sp 4
+.end_macro
+
+.macro output (%arr_2, %end_of_arr)
+	la a0 output_final
+	li a7 4
 	ecall
-	mv a0 t3
+loop:	lw a2 (%arr_2)
+	lw a0 (a2)
 	li a7 1
 	ecall
-	la a0, ask_for_input_pt_2
-	li a7,4 
+	li a0 10
+	li a7 11			#Output for the B-array  (not the pointers, but values from A-array)
 	ecall
-	li a7 5
-	ecall
-	mv t2 a0
-	sw t2 (%x)
-	addi %x %x 4
-	bltu %x %y add_element
-step_after_inp:	la a0 sep 
-	li a7 4
-	ecall
-	la t0 array
-	addi s2 s2 2
+	addi %arr_2 %arr_2 4
+	blt %arr_2 %end_of_arr loop
+	lw ra (sp)
+	addi sp sp 4
 .end_macro
+	
