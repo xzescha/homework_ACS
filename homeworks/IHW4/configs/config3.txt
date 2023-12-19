@@ -1,2 +1,2 @@
-Number of Boltuns: 1
+Number of Boltuns: 2
 Output file: output3.txt

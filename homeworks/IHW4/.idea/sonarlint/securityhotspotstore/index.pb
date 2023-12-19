@@ -14,3 +14,7 @@ C
 configs/config2.txt,e\a\eaaaf7013d0a2b81a9e1ec6a9971e0ff07d4eee7
 B
 configs/config.txt,0\0\00419bf7bd233fb5e16ecd5b0496bdb2416ee169
+C
+configs/config3.txt,d\6\d607c97850fdbe856e93b1441f921642aa6496c3
+H
+output_data/ output3.txt,b\b\bb2950da278cf50b32e5527e01f8c65af5677bfc
