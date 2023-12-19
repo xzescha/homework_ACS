@@ -1,0 +1,15 @@
+
+;	cpp:S5421"!Global variables should be const.(‡õùçùÿÿÿÿ
+X	cpp:S6004"CUse the init-statement to declare "action" inside the if statement.(ÞñøÖ
+I	cpp:S5020"/Replace "rand" with the facilities in <random>.(–Ý¥ëýÿÿÿÿ
+R	cpp:S1199"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ
+R	cpp:S1199""8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ
+w	cpp:S1911&"bRemove use of this obsolete "usleep" function. Replace it by a call to "nanosleep" or "setitimer".(Šà½ú
+D	cpp:S5020&"/Replace "rand" with the facilities in <random>.(Šà½ú
+R	cpp:S11992"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ
+w	cpp:S19117"bRemove use of this obsolete "usleep" function. Replace it by a call to "nanosleep" or "setitimer".(Ÿ­°õ
+R	cpp:S1199:"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ
+I	cpp:S5020*"/Replace "rand" with the facilities in <random>.(‡ŒÀšþÿÿÿÿ
+D	cpp:S5020,"/Replace "rand" with the facilities in <random>.(ùŠ¶Ò
+D	cpp:S50207"/Replace "rand" with the facilities in <random>.(Ÿ­°õ
+‡	cpp:S3230	"mDo not use the constructor's initializer list for data member "isBusy". Use the in-class initializer instead.(þÆÂ„ûÿÿÿÿ

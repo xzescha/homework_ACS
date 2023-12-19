@@ -1,0 +1,12 @@
+
+=	cpp:S5421"!Global variables should be const.(úÁ«Í8ÄÇçÙÆ1
+=	cpp:S5421	"!Global variables should be const.(·Å£š8ÄÇçÙÆ1
+=	cpp:S5421
+"!Global variables should be const.(Òã8ÄÇçÙÆ1
+B	cpp:S5421"!Global variables should be const.(‚éÚéøÿÿÿÿ8ÄÇçÙÆ1
+=	cpp:S5421"!Global variables should be const.(ÜÅ¾¬8ÄÇçÙÆ1
+[	cpp:S5025":Rewrite the code so that you no longer need this "delete".(·ÿÖÎøÿÿÿÿ8ÅÇçÙÆ1
+hcpp:S1344"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(ÚæªŸ8ÆÇçÙÆ1
+B	cpp:S5827O"'Replace the redundant type with "auto".(¦¼â78ÌÇçÙÆ1
+Y	cpp:S1199Q"8Extract this nested code block into a separate function.(ÒÌâ–øÿÿÿÿ8ÌÇçÙÆ1
+l	cpp:S5025O"QReplace the use of "new" with an operation that automatically manages the memory.(¦¼â78ÌÇçÙÆ1
