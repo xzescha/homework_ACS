@@ -20,7 +20,6 @@ void Boltun::run() {
         if (i == 29) {
             std::cout << "Boltun " << id << " says: 'I gotta go and study for my finals, getting out of the phone, bye!'" << std::endl;
             output << "Boltun " << id << " says: 'I gotta go and study for my finals, getting out of the phone, bye!'" << std::endl;
-            pthread_kill()
         }
     }
 }
