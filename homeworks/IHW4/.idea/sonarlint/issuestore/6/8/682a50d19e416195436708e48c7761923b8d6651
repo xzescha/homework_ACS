@@ -1,0 +1,18 @@
+
+=	cpp:S5421
+"!Global variables should be const.(úÁ«Í8´ÂóÈ1
+^	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(‹ÂâÓşÿÿÿÿ8µÂóÈ1
+B	cpp:S5421"!Global variables should be const.(‹ÂâÓşÿÿÿÿ8µÂóÈ1
+=	cpp:S5421"!Global variables should be const.(šñ»8µÂóÈ1
+=	cpp:S5421"!Global variables should be const.(Òã8µÂóÈ1
+B	cpp:S5421"!Global variables should be const.(‚éÚéøÿÿÿÿ8µÂóÈ1
+[	cpp:S5025":Rewrite the code so that you no longer need this "delete".(·ÿÖÎøÿÿÿÿ8·ÂóÈ1
+C	cpp:S5827"'Replace the redundant type with "auto".(æèŸ8·ÂóÈ1
+^	cpp:S5945"=Use "std::array" or "std::vector" instead of a C-style array.(ƒ»¶¥ÿÿÿÿÿ8¸ÂóÈ1
+Y	cpp:S59450"=Use "std::array" or "std::vector" instead of a C-style array.(í‹È×8¼ÂóÈ1
+^	cpp:S5945Z"=Use "std::array" or "std::vector" instead of a C-style array.(«êÈñüÿÿÿÿ8ÄÂóÈ1
+^	cpp:S5945b"=Use "std::array" or "std::vector" instead of a C-style array.(ı¨ıÙûÿÿÿÿ8ÆÂóÈ1
+D	cpp:S1110n"#Remove these redundant parentheses.(°ÁŒıÿÿÿÿ8»¾‘È1
+^	cpp:S5945v"=Use "std::array" or "std::vector" instead of a C-style array.(ÅµŞøûÿÿÿÿ8ÇÂóÈ1
+I	cpp:S5827‹"'Replace the redundant type with "auto".(˜ëØÿÿÿÿÿ8ÊÂóÈ1
+s	cpp:S5025‹"QReplace the use of "new" with an operation that automatically manages the memory.(˜ëØÿÿÿÿÿ8ÊÂóÈ1

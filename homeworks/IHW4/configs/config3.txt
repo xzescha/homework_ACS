@@ -1,0 +1,2 @@
+Number of Boltuns: 1
+Output file: output3.txt

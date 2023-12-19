@@ -1,0 +1,10 @@
+
+B	cpp:S5421"!Global variables should be const.(‡õùçùÿÿÿÿ8ƒ‹ÙÆ1
+P	cpp:S5020"/Replace "rand" with the facilities in <random>.(–İ¥ëıÿÿÿÿ8„‹ÙÆ1
+~	cpp:S1911"bRemove use of this obsolete "usleep" function. Replace it by a call to "nanosleep" or "setitimer".(Šà½ú8…‹ÙÆ1
+K	cpp:S5020"/Replace "rand" with the facilities in <random>.(Šà½ú8†‹ÙÆ1
+~	cpp:S1911-"bRemove use of this obsolete "usleep" function. Replace it by a call to "nanosleep" or "setitimer".(Ÿ­°õ8‡‹ÙÆ1
+P	cpp:S5020#"/Replace "rand" with the facilities in <random>.(‡ŒÀšşÿÿÿÿ8ˆ‹ÙÆ1
+K	cpp:S5020%"/Replace "rand" with the facilities in <random>.(ùŠ¶Ò8ˆ‹ÙÆ1
+K	cpp:S5020-"/Replace "rand" with the facilities in <random>.(Ÿ­°õ8Š‹ÙÆ1
+‰	cpp:S3230"mDo not use the constructor's initializer list for data member "isBusy". Use the in-class initializer instead.(ô€Òå8âçú‘È1

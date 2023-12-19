@@ -1,0 +1,663 @@
+Boltun 4 is calling Boltun 15.
+Boltun 8 is calling Boltun 2.
+Boltun 2 is calling Boltun 11.
+Boltun 1 is calling Boltun 3.
+Boltun 5 is calling Boltun 4.
+Boltun 15 is calling Boltun 14.
+Boltun 12 is calling Boltun 10.
+Boltun 9 is calling Boltun 13.
+Boltun 7 is calling Boltun 6.
+Boltun 6 is calling Boltun 8.
+Boltun 3 is calling Boltun 5.
+Boltun 13 is calling Boltun 9.
+Boltun 11 is calling Boltun 7.
+Boltun 10 is calling Boltun 12.
+Boltun 14 is calling Boltun 1.
+Boltun 3 answered the call.
+Boltun 15 answered the call.
+Boltun 2 answered the call.
+Boltun 10 answered the call.
+Boltun 8 is calling Boltun 3.
+Boltun 12 is calling Boltun 10.
+Boltun 4 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 11 answered the call.
+Boltun 13 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 9 is calling Boltun 11.
+Boltun 5 answered the call.
+Boltun 9 answered the call.
+Boltun 12 answered the call.
+Boltun 6 answered the call.
+Boltun 8 answered the call.
+Boltun 7 answered the call.
+Boltun 7 is calling Boltun 13.
+Boltun 14 answered the call.
+Boltun 3 is calling Boltun 5.
+Boltun 4 answered the call.
+Boltun 1 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 5 is waiting for a call.
+Boltun 6 is calling Boltun 2.
+Boltun 14 is calling Boltun 6.
+Boltun 15 is waiting for a call.
+Boltun 13 is calling Boltun 9.
+Boltun 3 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 12 is calling Boltun 10.
+Boltun 11 answered the call.
+Boltun 9 is calling Boltun 7.
+Boltun 4 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 7 is calling Boltun 11.
+Boltun 11 is calling Boltun 8.
+Boltun 5 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 5 is calling Boltun 13.
+Boltun 6 answered the call.
+Boltun 2 answered the call.
+Boltun 14 is calling Boltun 4.
+Boltun 6 is calling Boltun 12.
+Boltun 9 answered the call.
+Boltun 15 is calling Boltun 5.
+Boltun 13 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 4 is calling Boltun 6.
+Boltun 2 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 10 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 12 is calling Boltun 3.
+Boltun 11 answered the call.
+Boltun 7 is calling Boltun 10.
+Boltun 8 answered the call.
+Boltun 13 answered the call.
+Boltun 12 answered the call.
+Boltun 4 answered the call.
+Boltun 11 is calling Boltun 9.
+Boltun 14 is calling Boltun 7.
+Boltun 6 is waiting for a call.
+Boltun 5 is calling Boltun 11.
+Boltun 3 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 15 is calling Boltun 5.
+Boltun 13 is calling Boltun 15.
+Boltun 1 is waiting for a call.
+Boltun 8 is calling Boltun 12.
+Boltun 9 is calling Boltun 8.
+Boltun 2 is calling Boltun 13.
+Boltun 6 answered the call.
+Boltun 10 answered the call.
+Boltun 4 is calling Boltun 2.
+Boltun 7 is calling Boltun 6.
+Boltun 6 is waiting for a call.
+Boltun 3 answered the call.
+Boltun 7 answered the call.
+Boltun 12 is calling Boltun 14.
+Boltun 14 is waiting for a call.
+Boltun 11 answered the call.
+Boltun 5 answered the call.
+Boltun 5 is calling Boltun 3.
+Boltun 3 is calling Boltun 10.
+Boltun 10 is calling Boltun 7.
+Boltun 15 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 11 is calling Boltun 4.
+Boltun 15 answered the call.
+Boltun 13 is calling Boltun 9.
+Boltun 1 is calling Boltun 11.
+Boltun 8 answered the call.
+Boltun 13 answered the call.
+Boltun 9 is calling Boltun 8.
+Boltun 2 is calling Boltun 13.
+Boltun 12 answered the call.
+Boltun 8 is calling Boltun 12.
+Boltun 2 answered the call.
+Boltun 4 is calling Boltun 5.
+Boltun 6 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 3 answered the call.
+Boltun 14 is calling Boltun 6.
+Boltun 5 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 14 answered the call.
+Boltun 3 is calling Boltun 10.
+Boltun 6 is waiting for a call.
+Boltun 15 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 12 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 9 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 13 is calling Boltun 15.
+Boltun 11 answered the call.
+Boltun 1 is calling Boltun 7.
+Boltun 13 answered the call.
+Boltun 2 is calling Boltun 3.
+Boltun 8 answered the call.
+Boltun 12 answered the call.
+Boltun 9 is calling Boltun 11.
+Boltun 8 is calling Boltun 9.
+Boltun 5 answered the call.
+Boltun 4 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 14 is waiting for a call.
+Boltun 5 is calling Boltun 12.
+Boltun 6 is calling Boltun 8.
+Boltun 15 is waiting for a call.
+Boltun 11 is calling Boltun 4.
+Boltun 10 answered the call.
+Boltun 3 is calling Boltun 5.
+Boltun 10 is calling Boltun 2.
+Boltun 12 is calling Boltun 13.
+Boltun 15 answered the call.
+Boltun 13 is calling Boltun 14.
+Boltun 3 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 1 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 11 answered the call.
+Boltun 9 is calling Boltun 7.
+Boltun 4 is calling Boltun 3.
+Boltun 9 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 12 answered the call.
+Boltun 5 is calling Boltun 12.
+Boltun 8 answered the call.
+Boltun 6 is calling Boltun 9.
+Boltun 5 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 11 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 12 is calling Boltun 5.
+Boltun 2 answered the call.
+Boltun 14 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 13 is calling Boltun 6.
+Boltun 1 is calling Boltun 8.
+Boltun 2 is calling Boltun 4.
+Boltun 7 is calling Boltun 11.
+Boltun 7 answered the call.
+Boltun 9 is calling Boltun 15.
+Boltun 12 answered the call.
+Boltun 3 answered the call.
+Boltun 8 is calling Boltun 7.
+Boltun 4 is calling Boltun 2.
+Boltun 5 is calling Boltun 10.
+Boltun 14 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 6 is calling Boltun 12.
+Boltun 15 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 11 is calling Boltun 9.
+Boltun 12 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 3 is calling Boltun 14.
+Boltun 13 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 8 answered the call.
+Boltun 1 is calling Boltun 6.
+Boltun 11 answered the call.
+Boltun 7 is calling Boltun 3.
+Boltun 15 answered the call.
+Boltun 7 answered the call.
+Boltun 9 is calling Boltun 15.
+Boltun 2 answered the call.
+Boltun 12 is waiting for a call.
+Boltun 8 is calling Boltun 13.
+Boltun 10 answered the call.
+Boltun 9 answered the call.
+Boltun 10 is calling Boltun 5.
+Boltun 14 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 5 is calling Boltun 4.
+Boltun 4 is waiting for a call.
+Boltun 13 is waiting for a call.
+Boltun 12 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 6 is calling Boltun 11.
+Boltun 11 is calling Boltun 8.
+Boltun 6 answered the call.
+Boltun 1 is waiting for a call.
+Boltun 2 is calling Boltun 10.
+Boltun 3 answered the call.
+Boltun 7 is calling Boltun 2.
+Boltun 12 is waiting for a call.
+Boltun 15 answered the call.
+Boltun 9 is calling Boltun 7.
+Boltun 13 answered the call.
+Boltun 8 is calling Boltun 9.
+Boltun 5 answered the call.
+Boltun 14 is calling Boltun 15.
+Boltun 10 is calling Boltun 5.
+Boltun 13 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 11 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 6 is calling Boltun 3.
+Boltun 3 is calling Boltun 13.
+Boltun 4 answered the call.
+Boltun 5 is waiting for a call.
+Boltun 8 answered the call.
+Boltun 11 is calling Boltun 14.
+Boltun 1 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 2 is calling Boltun 4.
+Boltun 2 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 8 is calling Boltun 2.
+Boltun 5 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 15 answered the call.
+Boltun 14 is waiting for a call.
+Boltun 13 is waiting for a call.
+Boltun 15 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 4 is calling Boltun 5.
+Boltun 3 is calling Boltun 7.
+Boltun 3 answered the call.
+Boltun 3 answered the call.
+Boltun 5 is calling Boltun 9.
+Boltun 14 answered the call.
+Boltun 6 is calling Boltun 15.
+Boltun 11 is calling Boltun 6.
+Boltun 1 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 9 is calling Boltun 13.
+Boltun 2 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 14 is calling Boltun 4.
+Boltun 5 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 4 is calling Boltun 5.
+Boltun 13 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 6 answered the call.
+Boltun 5 is calling Boltun 8.
+Boltun 11 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 15 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 6 is calling Boltun 9.
+Boltun 1 is calling Boltun 11.
+Boltun 2 is calling Boltun 14.
+Boltun 12 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 7 is calling Boltun 13.
+Boltun 10 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 14 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 13 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 15 is calling Boltun 10.
+Boltun 6 is calling Boltun 15.
+Boltun 3 is calling Boltun 6.
+Boltun 11 is waiting for a call.
+Boltun 8 answered the call.
+Boltun 5 is calling Boltun 9.
+Boltun 11 answered the call.
+Boltun 1 is calling Boltun 7.
+Boltun 14 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 7 is calling Boltun 5.
+Boltun 8 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 13 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 6 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 15 answered the call.
+Boltun 9 answered the call.
+Boltun 11 is waiting for a call.
+Boltun 6 is calling Boltun 13.
+Boltun 5 is calling Boltun 14.
+Boltun 7 answered the call.
+Boltun 1 is calling Boltun 4.
+Boltun 2 is calling Boltun 9.
+Boltun 12 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 13 is calling Boltun 10.
+Boltun 15 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 11 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 6 is calling Boltun 7.
+Boltun 5 is calling Boltun 6.
+Boltun 3 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 1 is calling Boltun 2.
+Boltun 9 answered the call.
+Boltun 2 is calling Boltun 14.
+Boltun 12 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 9 is calling Boltun 11.
+Boltun 8 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 14 is calling Boltun 1.
+Boltun 4 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 13 is waiting for a call.
+Boltun 15 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 5 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 6 is waiting for a call.
+Boltun 2 answered the call.
+Boltun 1 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 2 is calling Boltun 6.
+Boltun 12 is calling Boltun 9.
+Boltun 7 is waiting for a call.
+Boltun 11 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 1 answered the call.
+Boltun 14 is calling Boltun 8.
+Boltun 10 is waiting for a call.
+Boltun 13 is waiting for a call.
+Boltun 15 is calling Boltun 14.
+Boltun 11 is waiting for a call.
+Boltun 5 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 6 is calling Boltun 13.
+Boltun 1 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 12 is calling Boltun 10.
+Boltun 7 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 9 is calling Boltun 5.
+Boltun 4 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 8 answered the call.
+Boltun 14 is waiting for a call.
+Boltun 13 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 15 is calling Boltun 12.
+Boltun 5 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 6 is waiting for a call.
+Boltun 3 is waiting for a call.
+Boltun 1 is calling Boltun 13.
+Boltun 2 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 12 is waiting for a call.
+Boltun 8 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 13 is calling Boltun 14.
+Boltun 12 answered the call.
+Boltun 15 is calling Boltun 9.
+Boltun 5 is waiting for a call.
+Boltun 11 is calling Boltun 10.
+Boltun 3 is waiting for a call.
+Boltun 6 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 1 is calling Boltun 7.
+Boltun 2 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 8 is calling Boltun 5.
+Boltun 10 is calling Boltun 6.
+Boltun 14 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 13 is calling Boltun 12.
+Boltun 9 answered the call.
+Boltun 15 is calling Boltun 4.
+Boltun 5 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 6 is waiting for a call.
+Boltun 2 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 1 is waiting for a call.
+Boltun 12 is calling Boltun 14.
+Boltun 7 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 14 is calling Boltun 8.
+Boltun 12 answered the call.
+Boltun 13 is calling Boltun 9.
+Boltun 5 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 15 is calling Boltun 4.
+Boltun 3 is calling Boltun 5.
+Boltun 11 is waiting for a call.
+Boltun 6 is calling Boltun 10.
+Boltun 2 is waiting for a call.
+Boltun 1 is calling Boltun 6.
+Boltun 14 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 12 is calling Boltun 14.
+Boltun 9 is calling Boltun 12.
+Boltun 8 is waiting for a call.
+Boltun 4 is calling Boltun 7.
+Boltun 10 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 8 answered the call.
+Boltun 14 is calling Boltun 3.
+Boltun 13 is calling Boltun 1.
+Boltun 5 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 6 is waiting for a call.
+Boltun 2 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 1 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 12 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 12 answered the call.
+Boltun 9 is calling Boltun 14.
+Boltun 8 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 4 is waiting for a call.
+Boltun 10 is calling Boltun 12.
+Boltun 1 answered the call.
+Boltun 13 is waiting for a call.
+Boltun 3 answered the call.
+Boltun 14 is calling Boltun 6.
+Boltun 15 is waiting for a call.
+Boltun 5 is calling Boltun 9.
+Boltun 3 is waiting for a call.
+Boltun 11 is calling Boltun 10.
+Boltun 6 is calling Boltun 4.
+Boltun 2 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 7 is calling Boltun 5.
+Boltun 14 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 8 is calling Boltun 14.
+Boltun 4 is calling Boltun 3.
+Boltun 12 answered the call.
+Boltun 10 is calling Boltun 13.
+Boltun 6 answered the call.
+Boltun 14 is calling Boltun 12.
+Boltun 13 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 5 is calling Boltun 7.
+Boltun 15 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 6 is calling Boltun 9.
+Boltun 10 answered the call.
+Boltun 11 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 2 is calling Boltun 10.
+Boltun 12 is calling Boltun 4.
+Boltun 5 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 9 is calling Boltun 6.
+Boltun 14 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 3 answered the call.
+Boltun 4 is waiting for a call.
+Boltun 13 answered the call.
+Boltun 10 is calling Boltun 5.
+Boltun 13 is calling Boltun 15.
+Boltun 12 answered the call.
+Boltun 14 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 15 is calling Boltun 8.
+Boltun 5 is waiting for a call.
+Boltun 3 is calling Boltun 12.
+Boltun 9 answered the call.
+Boltun 11 is calling Boltun 14.
+Boltun 6 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 10 answered the call.
+Boltun 2 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 12 is calling Boltun 4.
+Boltun 6 answered the call.
+Boltun 9 is waiting for a call.
+Boltun 4 is calling Boltun 6.
+Boltun 8 is waiting for a call.
+Boltun 15 answered the call.
+Boltun 5 answered the call.
+Boltun 13 is waiting for a call.
+Boltun 10 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 5 is calling Boltun 10.
+Boltun 12 answered the call.
+Boltun 8 answered the call.
+Boltun 3 is calling Boltun 9.
+Boltun 15 is calling Boltun 3.
+Boltun 14 answered the call.
+Boltun 6 is waiting for a call.
+Boltun 11 is waiting for a call.
+Boltun 1 is waiting for a call.
+Boltun 2 is waiting for a call.
+Boltun 7 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 4 answered the call.
+Boltun 4 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 8 is calling Boltun 4.
+Boltun 13 is calling Boltun 2.
+Boltun 10 is calling Boltun 12.
+Boltun 14 is calling Boltun 1.
+Boltun 9 answered the call.
+Boltun 3 is calling Boltun 6.
+Boltun 10 answered the call.
+Boltun 5 is waiting for a call.
+Boltun 3 answered the call.
+Boltun 15 is calling Boltun 13.
+Boltun 6 is waiting for a call.
+Boltun 11 is calling Boltun 5.
+Boltun 1 is waiting for a call.
+Boltun 2 is waiting for a call.
+Boltun 7 is calling Boltun 14.
+Boltun 12 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 8 is calling Boltun 4.
+Boltun 2 answered the call.
+Boltun 13 is calling Boltun 7.
+Boltun 12 answered the call.
+Boltun 10 is waiting for a call.
+Boltun 6 answered the call.
+Boltun 1 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 14 is waiting for a call.
+Boltun 5 is calling Boltun 9.
+Boltun 13 answered the call.
+Boltun 15 is waiting for a call.
+Boltun 6 is waiting for a call.
+Boltun 5 answered the call.
+Boltun 11 is waiting for a call.
+Boltun 2 is calling Boltun 10.
+Boltun 1 is waiting for a call.
+Boltun 14 answered the call.
+Boltun 7 is waiting for a call.
+Boltun 12 is waiting for a call.
+Boltun 4 is waiting for a call.
+Boltun 9 is waiting for a call.
+Boltun 4 answered the call.
+Boltun 8 is waiting for a call.
+Boltun 7 answered the call.
+Boltun 10 is calling Boltun 15.
+Boltun 13 is calling Boltun 1.
+Boltun 14 is waiting for a call.
+Boltun 9 answered the call.
+Boltun 3 is waiting for a call.
+Boltun 15 is waiting for a call.
+Boltun 5 is calling Boltun 12.
+Boltun 6 is calling Boltun 14.
+Boltun 11 is calling Boltun 9.
+Boltun 1 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 10 answered the call.
+Boltun 2 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 7 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 12 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 3 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 1 answered the call.
+Boltun 15 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 9 answered the call.
+Boltun 15 answered the call.
+Boltun 4 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
+Boltun 11 says: 'I gotta go and study for my finals, getting out of the phone, bye!'
